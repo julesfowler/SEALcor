@@ -1,3 +1,6 @@
+# Maaike does great things with these segements!!
+
+
 from hcipy import *
 import hcipy
 import numpy as np
