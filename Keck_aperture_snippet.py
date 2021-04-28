@@ -1,3 +1,6 @@
+# Maaike made a better version. This is WIDLY outdated.
+
+
 from hcipy import *
 import hcipy
 import numpy as np
